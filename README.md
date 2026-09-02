@@ -54,9 +54,5 @@ Computer Science graduate focused on software development, web development, and 
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=chrislff02&layout=compact&theme=tokyonight&title_color=e36209&icon_color=e36209&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
-
-![Chris's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chrislff02)
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/chrislff02">chrislff02</a></i></p>
