@@ -56,14 +56,7 @@ Computer Science graduate focused on software development, web development, and 
 
 ### 📈 Contribution Graph
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=chrislff02&bg_color=00000000&color=e36209&line=e36209&point=c9d1d9&area=true&hide_border=true"
-    alt="Chris's GitHub activity graph"
-  />
-</p>
+![Chris's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chrislff02)
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/chrislff02">chrislff02</a></i></p>
