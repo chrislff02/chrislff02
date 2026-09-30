@@ -14,7 +14,7 @@ Computer Science graduate focused on software engineering, full-stack developmen
 
 🌱 &nbsp;I'm currently learning **how to optimize full-stack applications while expanding my skills in machine learning and data analysis**  
 💬 &nbsp;Ask me about **Python, React, TypeScript, Node.js, Java, and machine learning**  
-⚡ &nbsp;Fun fact: **I’m a huge football/soccer fan**
+⚡ &nbsp;Fun fact: **I’m a huge football/soccer fan!**
 
 ### 🛠️ Tech Stack
 
